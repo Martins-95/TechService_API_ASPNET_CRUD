@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/macjoao/Desktop/GitHub Rep/TechService_V1/TechService.Api.csproj": {}
+    "/Users/macjoao/Desktop/GitHub Rep/TechService_API_ASPNET_CRUD/TechService.Api.csproj": {}
   },
   "projects": {
-    "/Users/macjoao/Desktop/GitHub Rep/TechService_V1/TechService.Api.csproj": {
+    "/Users/macjoao/Desktop/GitHub Rep/TechService_API_ASPNET_CRUD/TechService.Api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/macjoao/Desktop/GitHub Rep/TechService_V1/TechService.Api.csproj",
+        "projectUniqueName": "/Users/macjoao/Desktop/GitHub Rep/TechService_API_ASPNET_CRUD/TechService.Api.csproj",
         "projectName": "TechService.Api",
-        "projectPath": "/Users/macjoao/Desktop/GitHub Rep/TechService_V1/TechService.Api.csproj",
+        "projectPath": "/Users/macjoao/Desktop/GitHub Rep/TechService_API_ASPNET_CRUD/TechService.Api.csproj",
         "packagesPath": "/Users/macjoao/.nuget/packages/",
-        "outputPath": "/Users/macjoao/Desktop/GitHub Rep/TechService_V1/obj/",
+        "outputPath": "/Users/macjoao/Desktop/GitHub Rep/TechService_API_ASPNET_CRUD/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/macjoao/.nuget/NuGet/NuGet.Config"
