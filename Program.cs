@@ -188,4 +188,32 @@ app.MapDelete("/api/clientes/{id_cliente}", async (int id_cliente, MySqlConnecti
 .WithSummary("Desativar cliente existente")
 .WithDescription("Desativa um cliente existente pelo seu ID, alterando o status para 0 e registrando a data de exclusão. Retorna uma mensagem de sucesso ou erro.")
 ;
+
+// v4: Criar um novo cliente
+app.MapPost("/api/clientes", async (Cliente newCliente, MySqlConnectionFactory factory) =>
+{
+    const string sql = @"INSERT INTO clientes (nome, email, telefone, status, created_at)
+                         VALUES (@nome, @email, @telefone, 1, NOW());
+                         SELECT LAST_INSERT_ID();"; 
+    
+    await using var connection = factory.CreateConnection();
+    await connection.OpenAsync();
+
+    await using var command = new MySqlCommand(sql, connection);
+    command.Parameters.AddWithValue("@nome", newCliente.Nome);
+    command.Parameters.AddWithValue("@email", newCliente.Email);
+    command.Parameters.AddWithValue("@telefone", newCliente.Telefone ?? (object)DBNull.Value);
+
+    var newId = Convert.ToInt32(await command.ExecuteScalarAsync());
+
+    return Results.Created($"/api/clientes/{newId}", new { id_cliente = newId, mensagem = "Cliente criado com sucesso." });
+})
+.WithName("CriarCliente")
+.WithSummary("Criar novo cliente")
+.WithDescription("Cria um novo cliente na tabela clientes. Retorna o ID do novo cliente e uma mensagem de sucesso.")
+.Produces(StatusCodes.Status201Created)
+.Produces(StatusCodes.Status400BadRequest)
+.Produces(StatusCodes.Status500InternalServerError)
+;
+
 app.Run();
