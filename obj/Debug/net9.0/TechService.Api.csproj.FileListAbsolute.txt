@@ -1,0 +1,71 @@
+F:/UC00614/ASPNET/TechService/TechService_V1/bin/Debug/net9.0/appsettings.Development.json
+F:/UC00614/ASPNET/TechService/TechService_V1/bin/Debug/net9.0/appsettings.json
+F:/UC00614/ASPNET/TechService/TechService_V1/bin/Debug/net9.0/TechService.Api.staticwebassets.endpoints.json
+F:/UC00614/ASPNET/TechService/TechService_V1/bin/Debug/net9.0/TechService.Api.exe
+F:/UC00614/ASPNET/TechService/TechService_V1/bin/Debug/net9.0/TechService.Api.deps.json
+F:/UC00614/ASPNET/TechService/TechService_V1/bin/Debug/net9.0/TechService.Api.runtimeconfig.json
+F:/UC00614/ASPNET/TechService/TechService_V1/bin/Debug/net9.0/TechService.Api.dll
+F:/UC00614/ASPNET/TechService/TechService_V1/bin/Debug/net9.0/TechService.Api.pdb
+F:/UC00614/ASPNET/TechService/TechService_V1/bin/Debug/net9.0/Microsoft.OpenApi.dll
+F:/UC00614/ASPNET/TechService/TechService_V1/bin/Debug/net9.0/MySqlConnector.dll
+F:/UC00614/ASPNET/TechService/TechService_V1/bin/Debug/net9.0/Swashbuckle.AspNetCore.Swagger.dll
+F:/UC00614/ASPNET/TechService/TechService_V1/bin/Debug/net9.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+F:/UC00614/ASPNET/TechService/TechService_V1/bin/Debug/net9.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+F:/UC00614/ASPNET/TechService/TechService_V1/obj/Debug/net9.0/TechService.Api.csproj.AssemblyReference.cache
+F:/UC00614/ASPNET/TechService/TechService_V1/obj/Debug/net9.0/rpswa.dswa.cache.json
+F:/UC00614/ASPNET/TechService/TechService_V1/obj/Debug/net9.0/TechService.Api.GeneratedMSBuildEditorConfig.editorconfig
+F:/UC00614/ASPNET/TechService/TechService_V1/obj/Debug/net9.0/TechService.Api.AssemblyInfoInputs.cache
+F:/UC00614/ASPNET/TechService/TechService_V1/obj/Debug/net9.0/TechService.Api.AssemblyInfo.cs
+F:/UC00614/ASPNET/TechService/TechService_V1/obj/Debug/net9.0/TechService.Api.csproj.CoreCompileInputs.cache
+F:/UC00614/ASPNET/TechService/TechService_V1/obj/Debug/net9.0/TechService.Api.MvcApplicationPartsAssemblyInfo.cs
+F:/UC00614/ASPNET/TechService/TechService_V1/obj/Debug/net9.0/TechService.Api.MvcApplicationPartsAssemblyInfo.cache
+F:/UC00614/ASPNET/TechService/TechService_V1/obj/Debug/net9.0/rjimswa.dswa.cache.json
+F:/UC00614/ASPNET/TechService/TechService_V1/obj/Debug/net9.0/rjsmrazor.dswa.cache.json
+F:/UC00614/ASPNET/TechService/TechService_V1/obj/Debug/net9.0/rjsmcshtml.dswa.cache.json
+F:/UC00614/ASPNET/TechService/TechService_V1/obj/Debug/net9.0/scopedcss/bundle/TechService.Api.styles.css
+F:/UC00614/ASPNET/TechService/TechService_V1/obj/Debug/net9.0/staticwebassets.build.json
+F:/UC00614/ASPNET/TechService/TechService_V1/obj/Debug/net9.0/staticwebassets.build.json.cache
+F:/UC00614/ASPNET/TechService/TechService_V1/obj/Debug/net9.0/staticwebassets.development.json
+F:/UC00614/ASPNET/TechService/TechService_V1/obj/Debug/net9.0/staticwebassets.build.endpoints.json
+F:/UC00614/ASPNET/TechService/TechService_V1/obj/Debug/net9.0/TechServ.A9A75F8C.Up2Date
+F:/UC00614/ASPNET/TechService/TechService_V1/obj/Debug/net9.0/TechService.Api.dll
+F:/UC00614/ASPNET/TechService/TechService_V1/obj/Debug/net9.0/refint/TechService.Api.dll
+F:/UC00614/ASPNET/TechService/TechService_V1/obj/Debug/net9.0/TechService.Api.pdb
+F:/UC00614/ASPNET/TechService/TechService_V1/obj/Debug/net9.0/TechService.Api.genruntimeconfig.cache
+F:/UC00614/ASPNET/TechService/TechService_V1/obj/Debug/net9.0/ref/TechService.Api.dll
+/Users/macjoao/Desktop/GitHub Rep/TechService_V1/bin/Debug/net9.0/appsettings.Development.json
+/Users/macjoao/Desktop/GitHub Rep/TechService_V1/bin/Debug/net9.0/appsettings.json
+/Users/macjoao/Desktop/GitHub Rep/TechService_V1/bin/Debug/net9.0/TechService.Api.staticwebassets.endpoints.json
+/Users/macjoao/Desktop/GitHub Rep/TechService_V1/bin/Debug/net9.0/TechService.Api
+/Users/macjoao/Desktop/GitHub Rep/TechService_V1/bin/Debug/net9.0/TechService.Api.deps.json
+/Users/macjoao/Desktop/GitHub Rep/TechService_V1/bin/Debug/net9.0/TechService.Api.runtimeconfig.json
+/Users/macjoao/Desktop/GitHub Rep/TechService_V1/bin/Debug/net9.0/TechService.Api.dll
+/Users/macjoao/Desktop/GitHub Rep/TechService_V1/bin/Debug/net9.0/TechService.Api.pdb
+/Users/macjoao/Desktop/GitHub Rep/TechService_V1/bin/Debug/net9.0/Microsoft.OpenApi.dll
+/Users/macjoao/Desktop/GitHub Rep/TechService_V1/bin/Debug/net9.0/MySqlConnector.dll
+/Users/macjoao/Desktop/GitHub Rep/TechService_V1/bin/Debug/net9.0/Swashbuckle.AspNetCore.Swagger.dll
+/Users/macjoao/Desktop/GitHub Rep/TechService_V1/bin/Debug/net9.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/macjoao/Desktop/GitHub Rep/TechService_V1/bin/Debug/net9.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/macjoao/Desktop/GitHub Rep/TechService_V1/obj/Debug/net9.0/TechService.Api.csproj.AssemblyReference.cache
+/Users/macjoao/Desktop/GitHub Rep/TechService_V1/obj/Debug/net9.0/rpswa.dswa.cache.json
+/Users/macjoao/Desktop/GitHub Rep/TechService_V1/obj/Debug/net9.0/TechService.Api.GeneratedMSBuildEditorConfig.editorconfig
+/Users/macjoao/Desktop/GitHub Rep/TechService_V1/obj/Debug/net9.0/TechService.Api.AssemblyInfoInputs.cache
+/Users/macjoao/Desktop/GitHub Rep/TechService_V1/obj/Debug/net9.0/TechService.Api.AssemblyInfo.cs
+/Users/macjoao/Desktop/GitHub Rep/TechService_V1/obj/Debug/net9.0/TechService.Api.csproj.CoreCompileInputs.cache
+/Users/macjoao/Desktop/GitHub Rep/TechService_V1/obj/Debug/net9.0/TechService.Api.MvcApplicationPartsAssemblyInfo.cs
+/Users/macjoao/Desktop/GitHub Rep/TechService_V1/obj/Debug/net9.0/TechService.Api.MvcApplicationPartsAssemblyInfo.cache
+/Users/macjoao/Desktop/GitHub Rep/TechService_V1/obj/Debug/net9.0/rjimswa.dswa.cache.json
+/Users/macjoao/Desktop/GitHub Rep/TechService_V1/obj/Debug/net9.0/rjsmrazor.dswa.cache.json
+/Users/macjoao/Desktop/GitHub Rep/TechService_V1/obj/Debug/net9.0/rjsmcshtml.dswa.cache.json
+/Users/macjoao/Desktop/GitHub Rep/TechService_V1/obj/Debug/net9.0/scopedcss/bundle/TechService.Api.styles.css
+/Users/macjoao/Desktop/GitHub Rep/TechService_V1/obj/Debug/net9.0/staticwebassets.build.json
+/Users/macjoao/Desktop/GitHub Rep/TechService_V1/obj/Debug/net9.0/staticwebassets.build.json.cache
+/Users/macjoao/Desktop/GitHub Rep/TechService_V1/obj/Debug/net9.0/staticwebassets.development.json
+/Users/macjoao/Desktop/GitHub Rep/TechService_V1/obj/Debug/net9.0/staticwebassets.build.endpoints.json
+/Users/macjoao/Desktop/GitHub Rep/TechService_V1/obj/Debug/net9.0/swae.build.ex.cache
+/Users/macjoao/Desktop/GitHub Rep/TechService_V1/obj/Debug/net9.0/TechServ.A9A75F8C.Up2Date
+/Users/macjoao/Desktop/GitHub Rep/TechService_V1/obj/Debug/net9.0/TechService.Api.dll
+/Users/macjoao/Desktop/GitHub Rep/TechService_V1/obj/Debug/net9.0/refint/TechService.Api.dll
+/Users/macjoao/Desktop/GitHub Rep/TechService_V1/obj/Debug/net9.0/TechService.Api.pdb
+/Users/macjoao/Desktop/GitHub Rep/TechService_V1/obj/Debug/net9.0/TechService.Api.genruntimeconfig.cache
+/Users/macjoao/Desktop/GitHub Rep/TechService_V1/obj/Debug/net9.0/ref/TechService.Api.dll
