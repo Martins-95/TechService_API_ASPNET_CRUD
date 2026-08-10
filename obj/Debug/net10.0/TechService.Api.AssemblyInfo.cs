@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TechService.Api")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+795f6d54177683c33af532075c4d5ddbafa7fc74")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9ed5dfd29ce54ad750cc0e34c3b82cfbea9a97c6")]
 [assembly: System.Reflection.AssemblyProductAttribute("TechService.Api")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TechService.Api")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
