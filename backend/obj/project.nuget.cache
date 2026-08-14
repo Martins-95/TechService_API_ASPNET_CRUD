@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "B9WimTkr/vk=",
+  "dgSpecHash": "1+v9KbcLFY4=",
   "success": true,
-  "projectFilePath": "/Users/macjoao/Desktop/GitHub Rep/TechService_API_ASPNET_CRUD/Back End/TechService.Api.csproj",
+  "projectFilePath": "/Users/macjoao/Desktop/GitHub Rep/TechService_API_ASPNET_CRUD/backend/TechService.Api.csproj",
   "expectedPackageFiles": [
     "/Users/macjoao/.nuget/packages/microsoft.extensions.apidescription.server/9.0.0/microsoft.extensions.apidescription.server.9.0.0.nupkg.sha512",
     "/Users/macjoao/.nuget/packages/microsoft.openapi/1.6.25/microsoft.openapi.1.6.25.nupkg.sha512",
