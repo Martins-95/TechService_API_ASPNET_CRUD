@@ -1,0 +1,141 @@
+TECHSERVICE FRONTEND - V0 IEFP
+==============================
+
+OBJETIVO
+--------
+Manter o Frontend simples.
+
+O foco da UFCD é:
+    ASP.NET
+    API
+    endpoints
+    HTTP
+    JSON
+    CRUD
+    segurança
+
+
+ESTRUTURA
+---------
+Frontend/
+|
+|-- main.py
+|-- menu.py
+|-- config.py
+|-- crud_api.py
+|-- requirements.txt
+|
+|-- components/
+|   |-- crud_page.py
+|
+|-- pages/
+    |-- clientes_page.py
+
+
+IDEIA PRINCIPAL
+---------------
+CrudApi
+    sabe comunicar com a API.
+
+CrudPage
+    sabe montar uma tela CRUD.
+
+clientes_page.py
+    informa apenas os campos de Cliente.
+
+
+FLUXO
+-----
+Clientes
+   |
+   v
+CrudPage
+   |
+   v
+CrudApi
+   |
+ HTTP/JSON
+   |
+   v
+ASP.NET API
+
+
+V0 FUNCIONAL
+------------
+GET /api/clientes
+GET /api/clientes/{id}
+
+
+CRUDAPI JÁ TEM
+--------------
+listar()
+buscar_por_id()
+inserir()
+atualizar()
+desativar()
+
+
+PRÓXIMA VERSÃO
+--------------
+Completar CRUD de Clientes:
+
+POST
+PUT
+DELETE lógico
+
+
+PRODUTOS
+--------
+Criar apenas a configuração:
+
+titulo="Produtos"
+
+endpoint="/api/produtos"
+
+colunas=[...]
+
+
+ORDENS
+------
+Criar apenas a configuração:
+
+titulo="Ordens de Serviço"
+
+endpoint="/api/ordens-servico"
+
+colunas=[...]
+
+
+NÃO UTILIZAMOS
+--------------
+Generic[T]
+TypeVar
+Repository Pattern
+BaseModel
+classes abstratas
+herança complexa
+
+
+POR QUÊ?
+--------
+Porque a turma precisa compreender e praticar
+principalmente a API ASP.NET.
+
+O Frontend é apoio para:
+    testar
+    visualizar
+    consumir
+a API.
+
+
+EXECUÇÃO
+--------
+cd C:\TechService\Frontend
+
+python -m venv .venv
+
+.\.venv\Scripts\Activate.ps1
+
+pip install -r requirements.txt
+
+python main.py
