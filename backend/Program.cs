@@ -32,7 +32,7 @@ app.MapGet("/", () => Results.Ok(new
 // ==============================================================================
 // REGISTO DOS ENDPOINTS MODULARES
 // ==============================================================================
-// Estas 3 linhas vão aos ficheiros que criou e carregam as rotas todas para o Swagger!
+// Estas 3 linhas carregam as rotas todas para o Swagger!
 app.MapClientesEndpoints();
 app.MapEquipamentosEndpoints();
 app.MapOrdensServicoEndpoints();
