@@ -20,3 +20,6 @@ rad.json
 *.flf
 #Test results file
 TestResults.xml
+backend/obj/Debug/net10.0/TechService.Api.AssemblyInfo.cs
+backend/obj/Debug/net10.0/TechService.Api.AssemblyInfo.cs
+backend/obj/Debug/net10.0/TechService.Api.AssemblyInfoInputs.cache
